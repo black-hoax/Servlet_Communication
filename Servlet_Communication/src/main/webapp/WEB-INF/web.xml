@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">
+  <context-param>
+    <param-name>driverClass</param-name>
+    <param-value>"org.mariadb.jdbc.Driver"</param-value>
+  </context-param>
+  <context-param>
+    <param-name>db_User</param-name>
+    <param-value>e2102970</param-value>
+  </context-param>
+  <context-param>
+    <param-name>db_Password</param-name>
+    <param-value>q9uxXy45t4E</param-value>
+  </context-param>
+  
+</web-app>
